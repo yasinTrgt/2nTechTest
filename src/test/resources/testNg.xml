@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="Navigate to 2N Tech HR">
+        <classes>
+            <class name="test.BaseTest"></class>
+            <class name="test.BasvuruTest" />
+        </classes>
+    </test>
+</suite>
